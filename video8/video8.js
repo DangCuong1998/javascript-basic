@@ -13,6 +13,7 @@ let obj = {
 let b = 'name';
 obj[b] = 'harry';
 obj.b = 'Ali';
+obj.name ='cuong2'
 
 console.log('type of a',typeof a,'type of b', typeof b)
 console.log('what is your name',`my name is:`,obj.name,obj);     
